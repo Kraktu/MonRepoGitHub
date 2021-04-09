@@ -1,0 +1,10 @@
+ Le volume dans le lecteur M s'appelle RAID
+ Le num‚ro de s‚rie du volume est 8ED6-5F92
+
+ R‚pertoire de M:\Cours Johnny\MonRepoGitHub
+
+09-04-21  15:17    <DIR>          .
+09-04-21  15:17    <DIR>          ..
+09-04-21  15:17                 0 listing.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  1.825.331.892.224 octets libres
